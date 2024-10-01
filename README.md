@@ -17,9 +17,12 @@
 
 
 
-<picture> <img align="right" src=![WhatsApp Image 2024-10-01 at 1 37 32 AM] "https://github.com/user-attachments/assets/53a3be9c-2223-4b56-9fbd-f7dcea6b8accwidth" = 250px></picture>
+<picture>
+  <img align="right" src="https://github.com/user-attachments/assets/53a3be9c-2223-4b56-9fbd-f7dcea6b8acc" alt="Descripción de la imagen" width="250px">
+</picture>
 
 <br>
+
 
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
