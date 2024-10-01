@@ -12,13 +12,13 @@
 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/2af2f24d-2851-40c3-b2a5-89bc6fcc70bc" alt="About Me" width="50px" style="vertical-align: middle;">
-  <h2 style="display: inline; margin-left: 10px; vertical-align: middle;">About me</h2>
+  <h2 style="display: flex; margin-left: 10px; vertical-align: middle;">About me</h2>
 </div>
 
 
 
 <picture>
-  <img align="right" src="https://github.com/user-attachments/assets/53a3be9c-2223-4b56-9fbd-f7dcea6b8acc" alt="Descripción de la imagen" width="500px">
+  <img align="right" src="https://github.com/user-attachments/assets/53a3be9c-2223-4b56-9fbd-f7dcea6b8acc" alt="Descripción de la imagen" width="300px">
 </picture>
 
 <br>
