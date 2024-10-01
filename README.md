@@ -12,7 +12,7 @@
 
 	
 ## <picture>
-  <img src="https://github.com/user-attachments/assets/541ba4b6-06a0-4e8d-be6e-356745734ac9" alt="Minimalistic Design" width="100px">
+  <img src="https://github.com/user-attachments/assets/541ba4b6-06a0-4e8d-be6e-356745734ac9" alt="Minimalistic Design" width="50px">
 </picture> **About me**
 
 
