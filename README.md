@@ -18,7 +18,10 @@
 
 
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture>
+  <img align="right" src="https://github.com/user-attachments/assets/78b5677b-4470-4ace-8d9b-2c5c5113601e" width="250px">
+</picture>
+
 
 <br>
 
@@ -33,7 +36,8 @@
 834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<br>![github](https://github.com/user-attachments/assets/4065a568-36f7-4e98-9662-5ba723ed021d)
+
 
 <p align="center">
 
