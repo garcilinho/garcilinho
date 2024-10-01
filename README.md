@@ -11,7 +11,8 @@
 
 	
 ## <picture>
-  <img src= 
+  <img src= ![github](https://github.com/user-attachments/assets/1ba9d330-594c-45cc-b4bc-5c633cd2f2ed)
+
 	alt="Minimalistic Design" width="50px">
 </picture> **About me**
 
@@ -20,7 +21,8 @@
 
 
 <picture>
-  <img align="right" src="" width="500px">
+  <img align="right" src="![WhatsApp Image 2024-10-01 at 1 37 32 AM](https://github.com/user-attachments/assets/0e3a6f22-0165-4c20-b25a-b06a442d0939)
+" width="500px">
 </picture>
 
 
@@ -31,7 +33,6 @@
 - Playing CS at spare time
 - Currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
-![WhatsApp Image 2024-10-01 at 1 37 32 AM](https://github.com/user-attachments/assets/004177d2-681d-4556-b5e1-559390b7045c)
 
 <br><br>
 
