@@ -12,15 +12,17 @@
 
 	
 ## <picture>
-  <img src="https://github.com/user-attachments/assets/541ba4b6-06a0-4e8d-be6e-356745734ac9" alt="Minimalistic Design" width="50px">
+  <img src="https://github.com/user-attachments/assets/e457d43e-9b4e-4039-babc-be5628f350a4" alt="Minimalistic Design" width="50px">
 </picture> **About me**
 
 
 
 
+
 <picture>
-  <img align="right" src="https://github.com/user-attachments/assets/78b5677b-4470-4ace-8d9b-2c5c5113601e" width="500px">
+  <img align="right" src="https://github.com/user-attachments/assets/d94eed6f-3d76-4e4a-b5b5-ddbef6d97fac" width="500px">
 </picture>
+
 
 
 <br>
@@ -29,6 +31,7 @@
 - Playing CS at spare time
 - Currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+![WhatsApp Image 2024-10-01 at 1 37 32 AM](https://github.com/user-attachments/assets/004177d2-681d-4556-b5e1-559390b7045c)
 
 <br><br>
 
