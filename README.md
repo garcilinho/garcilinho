@@ -12,7 +12,8 @@
 
 	
 ## <picture>
-  <img src="https://github.com/user-attachments/assets/e457d43e-9b4e-4039-babc-be5628f350a4" alt="Minimalistic Design" width="50px">
+  <img src= "https://github.com/user-attachments/assets/066d627d-adaf-4c72-b8f4-a830953a1cf1"
+	alt="Minimalistic Design" width="50px">
 </picture> **About me**
 
 
