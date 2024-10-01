@@ -10,9 +10,11 @@
 
 
 
-## <picture>
-  <img src="https://github.com/user-attachments/assets/2af2f24d-2851-40c3-b2a5-89bc6fcc70bc" alt="About Me" width="50px">
-</picture> **About me**
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/2af2f24d-2851-40c3-b2a5-89bc6fcc70bc" alt="About Me" width="50px" style="vertical-align: middle;">
+  <h2 style="display: inline; margin-left: 10px; vertical-align: middle;">About me</h2>
+</div>
+
 
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
