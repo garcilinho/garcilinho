@@ -12,7 +12,7 @@
 
 	
 ## <picture>
-  <img src="https://github.com/user-attachments/assets/3FLrq6stUMNP2zZmUmqXMBwF" alt="Minimalistic Design" width="100px">
+  <img src="https://github.com/user-attachments/assets/541ba4b6-06a0-4e8d-be6e-356745734ac9" alt="Minimalistic Design" width="100px">
 </picture> **About me**
 
 
@@ -29,7 +29,8 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115![WhatsApp Image 2024-10-01 at 1 26 23 AM](https://github.com/user-attachments/assets/e2b72a46-022d-492b-96c6-fa633750eb7a)
+834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
