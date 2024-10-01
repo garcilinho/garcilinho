@@ -12,8 +12,9 @@
 
 	
 ## <picture>
-  <img src="https://github.com/user-attachments/assets/91e4b6fb-70cb-4d11-9a85-5c7e8accf3f0" alt="WhatsApp Image" width="100px">
+  <img src="https://github.com/user-attachments/assets/3FLrq6stUMNP2zZmUmqXMBwF" alt="Minimalistic Design" width="100px">
 </picture> **About me**
+
 
 
 
