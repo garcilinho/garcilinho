@@ -18,7 +18,7 @@
 
 
 <picture>
-  <img align="right" src="https://github.com/user-attachments/assets/53a3be9c-2223-4b56-9fbd-f7dcea6b8acc" alt="Descripción de la imagen" width="250px">
+  <img align="right" src="https://github.com/user-attachments/assets/53a3be9c-2223-4b56-9fbd-f7dcea6b8acc" alt="Descripción de la imagen" width="500px">
 </picture>
 
 <br>
