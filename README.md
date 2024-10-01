@@ -131,10 +131,11 @@
 <br>
 
 <li>
-<a href="mailto:garciacamilo2001@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  garciacamilo2001.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+  <a href="mailto:garciacamilo2001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-garciacamilo2001-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail: garciacamilo2001" style="margin-bottom: 5px;" />
+  </a>
 </li>
+
 	
 </ul>
 </div>
