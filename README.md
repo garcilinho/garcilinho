@@ -107,10 +107,11 @@
 <ul>
 
 <li>
-<a href=www.linkedin.com/in/camilo-garcia-90456a262" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+  <a href="https://www.linkedin.com/in/camilo-garcia-90456a262" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-Camilo%20Garcia-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
 </li>
+
 
 <br>
 
@@ -123,10 +124,11 @@
 <br>
 
 <li>
-<a href="garciacamilo2001@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+  <a href="mailto:garciacamilo2001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-garciacamilo2001-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;" />
+  </a>
 </li>
+
 	
 </ul>
 </div>
