@@ -11,7 +11,7 @@
 
 	
 ## <picture>
-  <img src= "https://github.com/user-attachments/assets/066d627d-adaf-4c72-b8f4-a830953a1cf1"
+  <img src= 
 	alt="Minimalistic Design" width="50px">
 </picture> **About me**
 
@@ -20,7 +20,7 @@
 
 
 <picture>
-  <img align="right" src="https://github.com/user-attachments/assets/d94eed6f-3d76-4e4a-b5b5-ddbef6d97fac" width="500px">
+  <img align="right" src="" width="500px">
 </picture>
 
 
