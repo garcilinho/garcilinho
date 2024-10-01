@@ -11,8 +11,10 @@
 
 
 	
-## <picture>![WhatsApp Image 2024-10-01 at 1 18 08 AM](https://github.com/user-attachments/assets/91e4b6fb-70cb-4d11-9a85-5c7e8accf3f0)
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
+## <picture>
+  <img src="https://github.com/user-attachments/assets/91e4b6fb-70cb-4d11-9a85-5c7e8accf3f0" alt="WhatsApp Image" width="100px">
+</picture> **About me**
+
 
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
