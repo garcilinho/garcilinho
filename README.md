@@ -11,7 +11,8 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture>https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lmaGx5M2x3cWxxMmR2amJ1Y3ZocWN2MXFjNHg3aGM5Z2F1cjF3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
+
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
